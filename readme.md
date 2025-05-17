@@ -10,4 +10,4 @@ Simple oceanic.js handler template
 ---
 **Problems**
 
-If you have any problems contact me on Discord: **__watuwnt__**
+If you have any problems contact me on Discord: **__wtpw__**
